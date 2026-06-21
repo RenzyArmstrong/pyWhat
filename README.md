@@ -2,7 +2,8 @@
 <img src='images/logo.png'>
 <p align="center">➡️ <a href="http://discord.skerritt.blog">Discord</a> ⬅️<br>
 <i>The easiest way to identify anything</i><br>
-<code>pip3 install pywhat && pywhat --help</code>
+<code>pip3 install pywhat && pywhat --help</code><br>
+<b>🔧 Now maintained by <a href="https://github.com/RenzyArmstrong">RenzyArmstrong</a></b>
 </p>
 
 <p align="center">
